@@ -1,6 +1,0 @@
-Finding ID,Severity,Description,Risk,Recommendation,Verification
-F1,High,Shared accounts on telemedicine platform,Lack of accountability and possible unauthorized access,Implement unique accounts and MFA,Account audit and access logs
-F2,High,Backup restore procedures never tested,Potential inability to recover after ransomware,Perform restore tests twice per year,Restore test documentation
-F3,Medium,Flat network architecture,Lateral movement of attackers,Implement network segmentation,Network diagram and firewall rules
-F4,Medium,No regular security awareness training,Higher phishing risk,Conduct annual security training,Training records
-F5,Medium,Weak endpoint security on laptops,Malware infection risk,Deploy endpoint protection (EDR),Security dashboard
