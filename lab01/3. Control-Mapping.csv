@@ -1,7 +1,0 @@
-Control ID,Control Description,Type,Risk Addressed,Implementation Effort,Verification Method
-C1,Enable MFA for VPN and SaaS access,Technical,R2;R6,Medium,Identity provider configuration
-C2,Security awareness training program,Organizational,R4,Low,Training attendance records
-C3,Network segmentation of critical systems,Technical,R1,High,Network diagram and firewall rules
-C4,Regular backup restore testing,Technical,R3,Medium,Backup restore test reports
-C5,Privileged access management and periodic access review,Organizational,R5,Medium,Access review logs and AD audit
-C6,Endpoint protection (EDR) on all laptops,Technical,R6,Medium,Endpoint security dashboard
